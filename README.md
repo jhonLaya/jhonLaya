@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jhon Laya</h1>
-<h3 align="center">A passionate developer with a deep interest in cybersecurity and task automation</h3>
+<h3 align="center">developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhonlaya" alt="jhonlaya" /></a> </p>
 
-- 🌱 I’m currently learning **Django, js**
-
-- 💬 Ask me about **python, cybersecurity, flask**
+- 💬 Ask me about **python, django, flask**
 
 - 📫 How to reach me **Jhonjesus26112003@gmail.com**
 
